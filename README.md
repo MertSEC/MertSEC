@@ -1,17 +1,10 @@
-```html
-<!-- 在页面中添加一个具有动画效果的按钮 -->
-<button class="animated-button">Click me!</button>
+<!-- 在个人资料页面添加头像和封面图片 -->
+<img src="https://avatars.githubusercontent.com/your-username" alt="profile picture" width="200">
+<img src="https://cover_image_url_here" alt="cover image">
 
 <!-- 样式设置 -->
 <style>
-  .animated-button {
-    background-color: #4285F4;
-    color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
-    transition: background-color 0.5s ease; /* 设置动画效果 */
-  }
-  .animated-button:hover {
-    background-color: #3367D6; /* 鼠标悬停时的颜色 */
+  img {
+    border-radius: 50%; /* 将图片变成圆形 */
   }
 </style>
