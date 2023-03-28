@@ -5,4 +5,4 @@
 <a href="https://github.com/wangsrGit119">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertSEC&layout=compact" />
 </a>
-
+![](https://activity-graph.herokuapp.com/graph?username=${MertSEC})
