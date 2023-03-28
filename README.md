@@ -1,7 +1,10 @@
-+ ![MertSEC](https://komarev.com/ghpvc/?username=MertSEC) + ![MertSEC](https://visitor-badge.glitch.me/badge?page_id=MertSEC.profile)
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MertSEC&repo=wx-suc-blog&theme=radical" />
+### 你好，我是 Mert
+
+#### github基础统计信息
+<a href="https://github.com/wangsrGit119">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/wangsrGit119/audio-translate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MertSEC&repo=audio-translate&theme=radical" />
+<a href="https://github.com/wangsrGit119">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertSEC&layout=compact" />
 </a>
