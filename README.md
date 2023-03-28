@@ -1,3 +1,1 @@
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MrtySEC&theme=dark&hide_border=true" />
-</div>
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=MertSEC&show_icons=true&theme=tokyonight)
