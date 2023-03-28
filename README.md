@@ -1,11 +1,8 @@
 <a href="https://github.com/wangsrGit119">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wangsrGit119&count_private=true&show_icons=true&theme=radical" />
 </a>
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">，I’m An Zhihe
 
-<a href="https://github.com/wangsrGit119">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertSEC&layout=compact" />
-</a>
-![MertSEC](https://activity-graph.herokuapp.com/graph?username=MertSEC
 ![](https://img.shields.io/badge/dynamic/json?color=2bb24c&label=Feedly RSS&query=$.data.totalSubs&url=https://api.spencerwoo.com/substats/?source=feedly&queryKey=https://chegva.com/feed/&logo=feedly)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=anzhihe.anzhihe&left_color=gray&right_color=blue)
 
@@ -25,7 +22,7 @@
 
 🏆 **my github stats:**
   
-|![](https://github-readme-stats.vercel.app/api?username=MertSEC)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertSEC&layout=compact&hide_border=true&langs_count=10)|
+|![](https://github-readme-stats.vercel.app/api?username=anzhihe)|![Anzhihe's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertSEC&layout=compact&hide_border=true&langs_count=10)|
 |-|-|
 
 ![](https://raw.githubusercontent.com/anzhihe/anzhihe/main/assets/github-contribution-grid-snake.svg)
